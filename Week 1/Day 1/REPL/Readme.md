@@ -12,10 +12,6 @@ They demonstrate interactive I/O, control flow, and applying code to practical u
 **Real-World Example:**
 - Can be used in board games or tabletop role-playing games when physical dice are unavailable.
 
-**Skills Used:**
-- `random.randint` for number generation.
-- Loops and user input handling.
-
 
 ## 2. Alarm Clock
 **Description:**
@@ -23,10 +19,6 @@ They demonstrate interactive I/O, control flow, and applying code to practical u
 
 **Real-World Example:**
 - Functions as a reminder tool for short tasks such as stretching, drinking water, or meeting alerts.
-
-**Skills Used:**
-- Working with time in Python (`datetime` module).
-- Looping until a condition is met.
 
 
 ## 3. Password Strength Checker
@@ -36,10 +28,6 @@ They demonstrate interactive I/O, control flow, and applying code to practical u
 **Real-World Example:**
 - Helps ensure stronger passwords during account creation to improve security.
 
-**Skills Used:**
-- String operations.
-- Conditional checks for complexity.
-
 
 ## 4. Number Guessing Game
 **Description:**
@@ -48,7 +36,6 @@ They demonstrate interactive I/O, control flow, and applying code to practical u
 
 **Real-World Example:**
 - Implements basic game logic that can be adapted for quizzes, puzzles, or interactive challenges.
-
 
 
 
