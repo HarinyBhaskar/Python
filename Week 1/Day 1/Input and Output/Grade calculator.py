@@ -1,8 +1,16 @@
-filename = "weather_log.txt"
-day = input("Enter date (YYYY-MM-DD): ")
-temp = input("Enter temperature in °C: ")
+name = input("Enter your name: ")
+marks = float(input("Enter your marks (0-100): "))
 
-with open(filename, "a") as f:
-    f.write(f"{day}: {temp}°C\n")
+if marks >= 90:
+    grade = "A"
+elif marks >= 75:
+    grade = "B"
+elif marks >= 50:
+    grade = "C"
+else:
+    grade = "F"
 
-print("Weather data saved.")
+print("\n--- Grade Report ---")
+print("Name:", name)
+print("Marks:", marks)
+print("Grade:", grade)
