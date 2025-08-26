@@ -30,7 +30,7 @@ This folder contains **mini projects** built in Python to demonstrate **advanced
   Concepts:
 - **Inheritance** → Reuse & extend behavior from parent classes  
 - **Mixins** → Add modular, reusable features without rewriting code  
-- **Encapsulation** → Data managed only through methods  
+
 
 
 
