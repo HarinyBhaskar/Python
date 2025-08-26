@@ -4,7 +4,7 @@ This folder contains **mini projects** built in Python to demonstrate **advanced
 - **Mixins** → Adding extra reusable functionality  
 
 
-#  Programs Included
+  Programs Included
 1. **Airline System**  
    - Base `Flight` and derived `InternationalFlight`  
    - Mixins for ticket booking, notifications  
@@ -27,7 +27,7 @@ This folder contains **mini projects** built in Python to demonstrate **advanced
 
 
 
-#  Concepts:
+  Concepts:
 - **Inheritance** → Reuse & extend behavior from parent classes  
 - **Mixins** → Add modular, reusable features without rewriting code  
 - **Encapsulation** → Data managed only through methods  
