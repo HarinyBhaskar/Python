@@ -1,0 +1,8 @@
+Region,ProductCategory,Sales,Profit
+East,Electronics,200,50
+East,Furniture,400,100
+West,Electronics,500,120
+West,Furniture,300,70
+South,Electronics,150,40
+South,Furniture,250,60
+North,Electronics,350,150
