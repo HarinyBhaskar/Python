@@ -1,0 +1,51 @@
+domain,question,option1,option2,option3,option4,answer
+AI,Who is known as the father of AI?,Alan Turing,John McCarthy,Geoffrey Hinton,Andrew Ng,John McCarthy
+AI,Which search algorithm is widely used in AI pathfinding?,DFS,BFS,A* Search,Binary Search,A* Search
+AI,Turing Test is used to check for?,Speed,Memory,Intelligence,Accuracy,Intelligence
+AI,Which company developed AlphaGo?,OpenAI,Google DeepMind,IBM,Microsoft,Google DeepMind
+AI,Neural networks mimic what?,Human Brain,Computer CPU,Internet,Calculator,Human Brain
+AI,Which AI library is developed by Google?,PyTorch,Scikit-learn,TensorFlow,Keras,TensorFlow
+AI,Which year is considered as the birth of AI?,1956,1960,1945,1980,1956
+AI,What does NLP stand for?,Natural Logic Processing,Neural Language Prediction,Natural Language Processing,Network Logic Program,Natural Language Processing
+AI,ChatGPT is based on which architecture?,CNN,RNN,Transformer,SVM,Transformer
+AI,Which AI system defeated Garry Kasparov?,DeepMind,Watson,Deep Blue,AlphaZero,Deep Blue
+ML,ML full form?,Machine Learning,Meta Language,Main Logic,Macro Language,Machine Learning
+ML,Regression is used to predict?,Categories,Continuous values,Clusters,Associations,Continuous values
+ML,Which library is most popular for ML in Python?,TensorFlow,Scikit-learn,PyTorch,All of the above,All of the above
+ML,Supervised learning uses?,Unlabeled data,Labeled data,Both,None,Labeled data
+ML,Unsupervised learning is used for?,Classification,Clustering,Regression,Prediction,Clustering
+ML,Which algorithm is used for classification?,K-Means,SVM,PCA,Apriori,SVM
+ML,Overfitting means?,Model too specific,Model too general,Model balanced,Model inaccurate,Model too specific
+ML,Gradient Descent is used for?,Optimization,Classification,Clustering,Prediction,Optimization
+ML,Cross-validation is used for?,Model evaluation,Model training,Data cleaning,Feature extraction,Model evaluation
+ML,Which ensemble technique combines weak learners?,Bagging,Boosting,Stacking,All of the above,All of the above
+Python,Who developed Python?,James Gosling,Guido van Rossum,Dennis Ritchie,Bjarne Stroustrup,Guido van Rossum
+Python,Which operator is used for exponentiation in Python?,^,**,//,%,**
+Python,Which keyword is used to create a function in Python?,fun,def,func,function,def
+Python,Which data type is immutable?,List,Dictionary,Tuple,Set,Tuple
+Python,Which library is used for data analysis?,numpy,pandas,matplotlib,scipy,pandas
+Python,Which statement is used for error handling?,catch,try-except,error,throw,try-except
+Python,Which keyword is used to define a class?,def,function,class,struct,class
+Python,What is the output of type(10)?,int,float,str,bool,int
+Python,Which module is used for JSON handling?,json,os,sys,re,json
+Python,Which function is used to read input?,scan(),read(),input(),get(),input()
+Cloud,What does AWS stand for?,Amazon Web Service,Advanced Web Server,Application Web System,Azure Web Service,Amazon Web Service
+Cloud,Which of these is a cloud computing model?,IaaS,PaaS,SaaS,All of the above,All of the above
+Cloud,Which company provides Azure Cloud?,Google,IBM,Microsoft,Oracle,Microsoft
+Cloud,Which is not a cloud provider?,AWS,Azure,GCP,MySQL,MySQL
+Cloud,Which service is used for object storage in AWS?,EC2,S3,RDS,Lambda,S3
+Cloud,Which Google service provides cloud solutions?,Drive,Docs,GCP,Workspace,GCP
+Cloud,Which AWS service is serverless?,EC2,Lambda,S3,RDS,Lambda
+Cloud,Which is not a type of cloud?,Public,Private,Hybrid,Offline,Offline
+Cloud,Which AWS service is a database?,S3,RDS,Lambda,CloudFront,RDS
+Cloud,Which cloud model offers complete software?,IaaS,SaaS,PaaS,All,SaaS
+DevOps,Which tool is commonly used for CI/CD?,Docker,Kubernetes,Jenkins,Ansible,Jenkins
+DevOps,Containerization is mainly handled by?,Docker,Jenkins,Terraform,Nagios,Docker
+DevOps,Which tool is used for container orchestration?,Git,Jenkins,Kubernetes,Chef,Kubernetes
+DevOps,Which tool is used for configuration management?,Ansible,Docker,Kubernetes,Jenkins,Ansible
+DevOps,Which tool is mainly for version control?,Git,Docker,Terraform,Nagios,Git
+DevOps,Which language is Ansible based on?,JSON,YAML,XML,INI,YAML
+DevOps,Which DevOps tool is from HashiCorp?,Docker,Terraform,Kubernetes,Jenkins,Terraform
+DevOps,Which DevOps practice ensures frequent code delivery?,Agile,CI/CD,Waterfall,Testing,CI/CD
+DevOps,Which tool is used for monitoring?,Nagios,Docker,Kubernetes,Git,Nagios
+DevOps,Which tool is best for automating builds?,Maven,Docker,Git,Slack,Maven
