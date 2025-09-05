@@ -1,0 +1,9 @@
+setup.py
+mini_library/__init__.py
+mini_library/cli.py
+mini_library/library.py
+mini_library.egg-info/PKG-INFO
+mini_library.egg-info/SOURCES.txt
+mini_library.egg-info/dependency_links.txt
+mini_library.egg-info/entry_points.txt
+mini_library.egg-info/top_level.txt
